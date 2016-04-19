@@ -1,0 +1,5 @@
+C:\МЭИ\3 курс\РиСПСИТ\РЗ варианты\РЗ 4 вариант\rz_var4\rz_var4\bin\Debug\rz_var4.exe.config
+C:\МЭИ\3 курс\РиСПСИТ\РЗ варианты\РЗ 4 вариант\rz_var4\rz_var4\obj\Debug\rz_var4.csprojResolveAssemblyReference.cache
+C:\МЭИ\3 курс\РиСПСИТ\РЗ варианты\РЗ 4 вариант\rz_var4\rz_var4\obj\Debug\rz_var4.Form1.resources
+C:\МЭИ\3 курс\РиСПСИТ\РЗ варианты\РЗ 4 вариант\rz_var4\rz_var4\obj\Debug\rz_var4.Properties.Resources.resources
+C:\МЭИ\3 курс\РиСПСИТ\РЗ варианты\РЗ 4 вариант\rz_var4\rz_var4\obj\Debug\rz_var4.csproj.GenerateResource.Cache
